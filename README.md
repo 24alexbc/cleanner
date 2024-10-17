@@ -1,2 +1,2 @@
 # cleanner
-cleanner
+Cleans %temp% and %prefetch%

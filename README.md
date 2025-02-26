@@ -1,4 +1,5 @@
 # cleanner
 > [!NOTE]  
-> Run with administrator .
+> Run with administrator
+> 
 Cleans %temp% and %prefetch%
